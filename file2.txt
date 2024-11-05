@@ -1,8 +1,6 @@
 6182201001 Richard Sastraputera
-<<<<<<< HEAD
-Ini file kedua
-=======
 Ini file kedua
 
 b: hasil edit1
->>>>>>> cb575735f0c0c6cf9256b3e343e8fb92e9001f87
+
+bb: hasil edit local
