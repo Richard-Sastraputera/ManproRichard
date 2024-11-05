@@ -1,2 +1,4 @@
 6182201001 Richard Sastraputera
 Ini file kedua
+
+b: hasil edit1
